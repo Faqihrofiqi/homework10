@@ -8,5 +8,4 @@ First Build Project
 
 2. docker-compose up
 
-If any question for this project can contact : temmy.alex@gmail.com
 
